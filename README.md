@@ -1,3 +1,3 @@
 ## redux-starter-example
 
-Modern React Course
+Modern React Course - Redux basics
