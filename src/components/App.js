@@ -1,9 +1,12 @@
 import React from "react";
+import BookList from "../components/BookList";
+import BookDetail from "../components/BookDetail";
 
 const App = () => {
   return (
     <div>
-      <h1>Redux Starter Example</h1>
+      <BookList />
+      <BookDetail />
     </div>
   );
 };
